@@ -1,0 +1,8 @@
+venv/
+
+output/
+cached_pages/
+
+__pycache__/
+
+.conda
