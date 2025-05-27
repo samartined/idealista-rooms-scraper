@@ -25,8 +25,8 @@ This project is under active development and may have limitations or bugs. It's 
 
 1. Clone this repository:
 ```bash
-git clone <your-repo-url>
-cd scraper_idealista
+git clone <https://github.com/samartined/idealista-rooms-scraper.git>
+cd idealista-rooms-scraper
 ```
 
 2. Install the required Python packages:
